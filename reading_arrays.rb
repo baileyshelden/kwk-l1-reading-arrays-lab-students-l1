@@ -1,11 +1,10 @@
-STUDENT_NAMES = [
-  "Adele",
+room = 
+[ "Adele",
   "Beyoncé",
   "Cardi B",
   "Lady Gaga",
   "Nicki Minaj",
-  "Rihanna"
-]
+  "Rihanna" ]
 
 def first_student_by_index
   puts room[0]
