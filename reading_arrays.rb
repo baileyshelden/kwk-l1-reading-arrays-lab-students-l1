@@ -1,4 +1,4 @@
-room = 
+STUDENT_NAMES = 
 [ "Adele",
   "Beyoncé",
   "Cardi B",
