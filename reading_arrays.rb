@@ -36,3 +36,11 @@ def first_second_and_third_students
   puts room[1,2,3]
   # Write a solution that returns the first, second and third students
 end
+
+
+first_student_by_index
+fourth_student_by_index
+last_student_by_index
+first_student_by_method
+last_student_by_method
+first_second_and_third_students
